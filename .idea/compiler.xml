@@ -26,6 +26,11 @@
         <module name="karafcxf.service.impl" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="karafcxf" target="1.5" />
+      <module name="karafcxf.kar" target="1.5" />
+      <module name="karafcxf.rest" target="1.5" />
+      <module name="karafcxf.service.impl" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
-
