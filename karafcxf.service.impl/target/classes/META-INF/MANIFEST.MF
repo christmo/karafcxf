@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1377576005222
-Build-Jdk: 1.6.0_51
-Built-By: Gabriel
+Bnd-LastModified: 1456582898775
+Build-Jdk: 1.8.0_65
+Built-By: christmo
 Bundle-Activator: me.rerun.karafcxf.service.impl.ServiceActivator
 Bundle-ManifestVersion: 2
 Bundle-Name: karafcxf.service.impl
