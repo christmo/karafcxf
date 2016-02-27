@@ -5,7 +5,7 @@
     <feature name="karafcxf" description="karaf cxf hello" version="1.0-SNAPSHOT" resolver="(obr)">
         <details>${project.description}</details>
         <feature>cxf</feature>
-        <feature>this-project-dependants</feature>
+        <!--<feature>this-project-dependants</feature>-->
 
         <bundle>mvn:karafcxf/karafcxf.service.impl/1.0-SNAPSHOT</bundle>
         <bundle>mvn:karafcxf/karafcxf.rest/1.0-SNAPSHOT</bundle>
