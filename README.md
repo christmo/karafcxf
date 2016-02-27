@@ -1,7 +1,7 @@
 ###If you are planning to copy the impl and REST jars directly to the deploy directly, then do a
 
 ```
-feature:repo-add cxf 2.7.11
+feature:repo-add cxf 3.1.4
 feature:install cxf
 
 ```
