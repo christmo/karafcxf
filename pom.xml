@@ -18,6 +18,7 @@
         <module>karafcxf.rest</module>
         <module>karafcxf.service.impl</module>
         <module>karafcxf.kar</module>
+        <module>rest-cxf</module>
     </modules>
 
 

@@ -24,6 +24,7 @@
         <processorPath useClasspath="true" />
         <module name="karafcxf.rest" />
         <module name="karafcxf.service.impl" />
+        <module name="rest-cxf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -31,6 +32,7 @@
       <module name="karafcxf.kar" target="1.5" />
       <module name="karafcxf.rest" target="1.5" />
       <module name="karafcxf.service.impl" target="1.5" />
+      <module name="rest-cxf" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

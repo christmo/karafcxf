@@ -6,6 +6,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="Osmorc" url="file://$PROJECT_DIR$/karafcxf.rest" />
     <file type="Osmorc" url="file://$PROJECT_DIR$/karafcxf.service.impl" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/rest-cxf" />
   </component>
   <component name="IdProvider" IDEtalkID="2FD9EA5EF0375790BAD27F78CBCC89E3" />
   <component name="MavenProjectsManager">
@@ -19,4 +20,3 @@
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
-
